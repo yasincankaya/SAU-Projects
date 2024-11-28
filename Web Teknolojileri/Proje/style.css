@@ -1,0 +1,71 @@
+.carousel-item img {
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+img {
+    border: 3px solid black;
+    padding: 0px;
+}
+
+
+
+body {
+    background-image: url("https://images.pexels.com/photos/839462/pexels-photo-839462.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.904);
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1250px;
+}
+
+#form{
+    background-color: rgb(255, 255, 255);
+    width:25%;
+    border-radius: 4px;
+    margin:120px auto;
+    padding:50px;
+    box-shadow: 10px 10px 5px rgb(82, 11, 77);
+}
+
+#btn{
+    color:rgb(255, 255, 255);
+    background-color: rgb(108, 22, 189);
+    padding:10px;
+    font-size: large;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 570px) {
+    #form {
+      width: 65%;
+      margin-left:none;
+      padding:40px;
+    }
+  }
+
+  .form-group {
+    display: flex;
+    align-items: center;
+}
+
+.form-group label {
+    flex-basis: 150px;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+    flex-grow: 1;
+    margin-left: 10px;
+}

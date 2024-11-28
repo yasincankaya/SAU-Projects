@@ -1,0 +1,17 @@
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\bin\Debug\net6.0-windows\NDPProjee.exe
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\bin\Debug\net6.0-windows\NDPProjee.deps.json
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\bin\Debug\net6.0-windows\NDPProjee.runtimeconfig.json
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\bin\Debug\net6.0-windows\NDPProjee.dll
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\bin\Debug\net6.0-windows\NDPProjee.pdb
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.csproj.AssemblyReference.cache
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.Form1.resources
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.csproj.GenerateResource.cache
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.AssemblyInfoInputs.cache
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.AssemblyInfo.cs
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.csproj.CoreCompileInputs.cache
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.dll
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\refint\NDPProjee.dll
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.pdb
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\NDPProjee.genruntimeconfig.cache
+C:\Users\Yasinn\source\repos\NDPProjee\NDPProjee\obj\Debug\net6.0-windows\ref\NDPProjee.dll

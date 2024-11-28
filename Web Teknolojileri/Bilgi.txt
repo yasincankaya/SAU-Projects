@@ -1,0 +1,3 @@
+Web Teknolojileri dersi için yapılan proje.
+Kişisel blog,özgeçmiş vs. olan bir sitedir.
+Html,js,php ve css kullanılmıştır.
