@@ -1,0 +1,1 @@
+Biçimsel Diller ve Soyut Makineler dersi için DFA makinesini minimum eşdeğer DFA ya dönüştüren Java programı
